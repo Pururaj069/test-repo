@@ -1,3 +1,6 @@
 testing command line git 
 test 2 
 check if it works 
+
+command line not works 
+see if it works 
